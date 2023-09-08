@@ -19,7 +19,7 @@ const config = {
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: '@pial.coder',
+    medium: 'pial.coder',
     dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
@@ -125,7 +125,7 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'medium', // medium | dev
-    username: '@pial.coder', // to hide blog section, keep it empty
+    username: 'pial.coder', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
