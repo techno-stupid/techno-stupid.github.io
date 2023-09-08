@@ -115,11 +115,18 @@ const config = {
       link: 'https://beeda.com',
     },
     {
-      title: 'Project Name',
+      title: 'Sheba xyz',
       description:
         'Sheba.xyz, largest service marketplace & one-stop solution for your home services in Bangladesh.',
       imageUrl: 'https://play-lh.googleusercontent.com/KdD-PttwhTyD3ALaL-pW0t5sjymog-RALwhoxh0ee1K8rXDaIVZvCcw8ToE22UYGNDQ',
       link: 'https://www.sheba.xyz',
+    },
+    {
+      title: 'Beeda Mall',
+      description:
+        'BeedaMall - where users and vendors come together for a seamless shopping experience. Shop for everything you need and sell your products with ease.',
+      imageUrl: 'https://yt3.googleusercontent.com/3PAzqCLDU7rp68DYVxH5ds0QCLGoJVT5lH8NbNcSqpV4_5XRQjyKZxT2TVdVjpUVE3wsk-Y8Ow=s900-c-k-c0x00ffffff-no-rj',
+      link: 'https://beedamall.com',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
